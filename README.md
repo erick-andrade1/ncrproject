@@ -7,3 +7,7 @@
 <h2>Problemas encontrados</h2>
 
 <p>Durante a criação do projeto, tive problemas em fazer a integração do back-end com o front-end, não consegui achar soluções para driblar tal dificuldade por falta de informações, atrapalhando a continuidade no front-end. Por tais motivos, não tive condições de criar uma tela com a listagem dos produtos.</p>
+
+<h2>Caminhos e pastas do projeto</h2>
+<p>Para localizar o front do projeto "maven-project -> src/main/webapp".
+Para localizar os arquivos .java do projeto "ncrproject -> build/classes -> proj".</p>
