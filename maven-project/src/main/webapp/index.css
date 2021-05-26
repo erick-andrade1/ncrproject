@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+body {
+	background: #efefef;
+	font-family: Nunito, sans-serif;
+	width: 95%;
+	height: 100%;
+	padding-top: 20rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+a {
+	background: #37a1de;
+	text-decoration: none;
+	
+	padding: 1.5rem 2rem;
+	border-radius: 10px;
+	color: #fafafa;
+	font-size: 18px;
+	transition: 0.5s;
+}
+
+a:hover{
+	background: green;
+	opacity: 75%
+}
